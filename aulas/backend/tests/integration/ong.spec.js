@@ -7,7 +7,7 @@ describe('ONG', () => {
         await connection.migrate.latest();
     });
 
-    afterAll( async () => {
+    afterAll( async () => {jj
        await connection.destroy();
     });
     it('should be able to create a new ONG', async () => {
