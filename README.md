@@ -37,7 +37,7 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-### 🚀 Como executar
+## 🚀 Como executar
 
 Execução do Backend
 
